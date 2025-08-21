@@ -156,6 +156,8 @@ wandb
       ```
 
 3. **Interactive Testing**: Access Swagger UI at `http://127.0.0.1:8000/docs`.
+- _API Testing_
+  ![Screenshot](Inference_SS.png)
 
 ### Example Client Code
 
